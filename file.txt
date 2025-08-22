@@ -1,0 +1,5 @@
+Python is a versatile programming language.
+You can use lists, dictionaries, and sets effectively.
+Functions help organize reusable code.
+Exception handling prevents program crashes.
+File handling allows reading and writing files.

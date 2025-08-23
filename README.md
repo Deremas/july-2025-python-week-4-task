@@ -54,5 +54,5 @@ python main.py
 ```
 
 4. Follow the prompts:
-   -- Enter the filename to read.
-   -- Enter the filename to save the modified content.
+   - Enter the filename to read.
+   - Enter the filename to save the modified content.

@@ -50,7 +50,7 @@ cd july-2025-python-week-4-task
 3. Run the program:
 
 ```bash
-python main.py
+python file_error_handling.py
 ```
 
 4. Follow the prompts:
